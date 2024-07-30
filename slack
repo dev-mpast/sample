@@ -1,2 +1,7 @@
 ## Slack App token
 SLACK_APP_TOKEN = 'xapp-1-A01C259PH2A-1440755929120-7d5241948a2cc1b464add85df8a8e75f9040ae2869f6599926ed0b9dcafdb32b'
+## Slack OAuth Access Token
+SLACK_OAUTH_ACCESS_TOKEN = 'xoxb-730191371696-1413868247813-IG7Z6nYevC2hdviE3aJhb5kY'
+
+## Slack Webhook
+SLACK_WEBHOOK = 'https://hooks.slack.com/services/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'
